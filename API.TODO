@@ -1,0 +1,6 @@
+PHONE
+    create
+    get
+    getall
+    update
+    delete
